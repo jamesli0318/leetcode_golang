@@ -1,2 +1,2 @@
-# golang_leetcode
+# leetcode_golang
 practice golang
